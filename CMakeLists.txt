@@ -37,6 +37,7 @@ set(msg_files
   "msg/AnotherStruct.msg"
   "msg/CompiledStruct.msg"
   "msg/NewMsg.msg"
+  "msg/GitMsg.msg"
 )
 
 rosidl_generate_interfaces(ia_msgs
